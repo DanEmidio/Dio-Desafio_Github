@@ -1,0 +1,12 @@
+sequência para inserir um novo item ou commit
+
+va ate a pasta local
+inserir arquivo
+abrir o Git Bash
+
+git status
+git add .
+git commit -m "Titulo a escolher"
+git push origin main 
+ se preferir ao final 
+git status
